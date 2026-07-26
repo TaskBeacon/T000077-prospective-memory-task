@@ -1,0 +1,136 @@
+subinfo_fields:
+  - {name: subject_id, type: int, constraints: {min: 101, max: 999, digits: 3}}
+subinfo_mapping:
+  subject_id: 被试编号
+  Participant Information: 参与者信息
+  registration_failed: 登记失败
+  registration_successful: 登记成功
+  invalid_input: "{field} 输入无效"
+window:
+  size: [1280, 800]
+  units: deg
+  screen: 0
+  bg_color: "#f4f5f7"
+  fullscreen: false
+  monitor_width_cm: 35.5
+  monitor_distance_cm: 57
+task:
+  task_name: Prospective Memory Task
+  save_path: ./outputs/human
+  language: Chinese
+  total_blocks: 3
+  total_trials: 315
+  trial_per_block: 105
+  practice_trials: 10
+  trials_per_block: 105
+  target_positions: [25, 50, 75, 100]
+  conditions: [baseline_word, baseline_nonword, focal_target, focal_filler_word, focal_nonword, nonfocal_target, nonfocal_filler_word, nonfocal_nonword]
+  key_list: [f, j, slash, space]
+  seed_mode: same_across_sub
+  delta: 0.0
+  random_seed: 77077
+  phase_order: [instruction, lexical_decision, waiting, continue, practice_feedback, intention, distractor, break, good_bye]
+timing:
+  lexical_response_window: 3.0
+  waiting_window: 10.0
+  continue_window: 10.0
+  feedback_duration: 0.6
+  distractor_duration: 120.0
+stimuli:
+  instruction:
+    type: text
+    font: SimHei
+    text: "你将判断屏幕中央的字母串是否为英文单词。\n\nF = 非单词    J = 英文单词\n\n作答后会出现 WAITING。通常按空格键进入下一题。\n请尽量快速且准确地完成单词判断。\n\n按空格键开始练习。"
+    color: "#20252b"
+    height: 0.58
+    wrapWidth: 25
+    pos: [0, 0]
+  letter_string: {type: text, font: "Courier New", text: "LETTER", color: "#20252b", height: 1.05, pos: [0, 0]}
+  waiting: {type: text, font: "Courier New", text: "WAITING", color: "#4b5563", height: 0.85, pos: [0, 0]}
+  feedback_correct: {type: text, font: SimHei, text: 正确, color: "#17803d", height: 0.75, pos: [0, 0]}
+  feedback_incorrect: {type: text, font: SimHei, text: 错误, color: "#b42318", height: 0.75, pos: [0, 0]}
+  practice_summary:
+    type: text
+    font: SimHei
+    text: "练习结束。\n\n接下来先完成一组正式的单词判断。\nF = 非单词，J = 英文单词。\n作答后按空格键进入下一题。\n\n按空格键开始。"
+    color: "#20252b"
+    height: 0.58
+    wrapWidth: 24
+    pos: [0, 0]
+  baseline_complete:
+    type: text
+    font: SimHei
+    text: "第一部分结束。\n\n请稍作休息。下一页将说明后续任务。\n\n按空格键继续。"
+    color: "#20252b"
+    height: 0.62
+    wrapWidth: 22
+    pos: [0, 0]
+  focal_instruction:
+    type: text
+    font: SimHei
+    text: "后续仍要完成相同的单词判断。\n\n如果刚才判断的单词是 PACKET，\n请在随后的 WAITING 屏幕按 / 键，\n然后再按空格键进入下一题。\n\n单词判断仍是主要任务。确认理解后按空格键。"
+    color: "#20252b"
+    height: 0.58
+    wrapWidth: 25
+    pos: [0, 0]
+  nonfocal_instruction:
+    type: text
+    font: SimHei
+    text: "后续仍要完成相同的单词判断。\n\n如果刚才判断的单词中包含字母组合 TOR，\n请在随后的 WAITING 屏幕按 / 键，\n然后再按空格键进入下一题。\n\n单词判断仍是主要任务。确认理解后按空格键。"
+    color: "#20252b"
+    height: 0.58
+    wrapWidth: 25
+    pos: [0, 0]
+  distractor_instruction:
+    type: text
+    font: SimHei
+    text: "请在复杂图形中寻找右上角所示的简单形状。\n保持专注，时间结束后任务会自动继续。"
+    color: "#20252b"
+    height: 0.48
+    wrapWidth: 25
+    pos: [0, 5.1]
+  embedded_figures: {type: image, image: assets/embedded_figures.png, size: [16, 9], units: deg, pos: [0, -0.5]}
+  interblock_break:
+    type: text
+    font: SimHei
+    text: "本部分结束。\n\n请稍作休息。下一页将说明最后一部分。\n\n按空格键继续。"
+    color: "#20252b"
+    height: 0.62
+    wrapWidth: 22
+    pos: [0, 0]
+  good_bye:
+    type: text
+    font: SimHei
+    text: "任务完成\n\n单词判断正确率：{lexical_accuracy}\n精确目标完成率：{focal_pm}\n字母组合目标完成率：{nonfocal_pm}\n\n感谢参与。按空格键退出。"
+    color: "#20252b"
+    height: 0.58
+    wrapWidth: 24
+    pos: [0, 0]
+triggers:
+  map:
+    experiment_start: 1
+    block_start: 10
+    baseline_word: 20
+    baseline_nonword: 21
+    focal_word: 22
+    focal_nonword: 23
+    nonfocal_word: 24
+    nonfocal_nonword: 25
+    focal_target: 26
+    nonfocal_target: 27
+    response_nonword: 30
+    response_word: 31
+    lexical_timeout: 32
+    waiting: 40
+    pm_response: 41
+    advance_response: 42
+    waiting_timeout: 43
+    practice_feedback: 50
+    distractor: 60
+    instruction: 70
+    focal_instruction: 71
+    nonfocal_instruction: 72
+    block_end: 90
+    experiment_end: 99
+  driver: {type: serial_url, url: "loop://"}
+  policy: {strict: false}

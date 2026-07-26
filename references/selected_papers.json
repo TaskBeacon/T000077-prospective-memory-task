@@ -1,0 +1,102 @@
+[
+  {
+    "id": "SRC001",
+    "title": "Individual differences in event-based prospective memory: Evidence for multiple processes supporting cue detection",
+    "authors": [
+      "Gene A. Brewer",
+      "Justin B. Knight",
+      "Richard L. Marsh",
+      "Nash Unsworth"
+    ],
+    "year": 2010,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/MC.38.3.304",
+    "citation_count": 114,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "primary_protocol",
+      "baseline_focal_nonfocal_blocks",
+      "lexical_decision_keys",
+      "prospective_memory_key",
+      "target_positions",
+      "distractor_delay",
+      "stimulus_case"
+    ],
+    "parameter_bindings": {
+      "task.trials_per_block": 105,
+      "task.target_positions": [25, 50, 75, 100],
+      "task.lexical_word_key": "j",
+      "task.lexical_nonword_key": "f",
+      "task.pm_key": "slash",
+      "timing.distractor_duration": 120.0
+    },
+    "notes": "Primary protocol. Open full text: https://maidlab.uoregon.edu/PDFs/PDFs/Breweretal%282010%29.pdf"
+  },
+  {
+    "id": "SRC002",
+    "title": "Implementation intentions facilitate prospective memory under high attention demands",
+    "authors": [
+      "Mark A. McDaniel",
+      "Daniel C. Howard",
+      "Karin M. Butler"
+    ],
+    "year": 2008,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/MC.36.4.716",
+    "citation_count": 123,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "prospective_intention_encoding",
+      "focal_target_action_association",
+      "ongoing_task_priority"
+    ],
+    "parameter_bindings": {},
+    "notes": "Supporting event-based prospective-memory protocol. Open full text: https://link.springer.com/content/pdf/10.3758/MC.36.4.716.pdf"
+  },
+  {
+    "id": "SRC003",
+    "title": "Dual pathways to prospective remembering",
+    "authors": [
+      "Mark A. McDaniel",
+      "Sharda Umanath",
+      "Gilles O. Einstein",
+      "Emily R. Waldum"
+    ],
+    "year": 2015,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2015.00392",
+    "citation_count": 120,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "multiprocess_framework",
+      "monitoring_cost_interpretation",
+      "focal_nonfocal_design"
+    ],
+    "parameter_bindings": {},
+    "notes": "Open review and design guidance: https://pmc.ncbi.nlm.nih.gov/articles/PMC4500919/"
+  },
+  {
+    "id": "SRC004",
+    "title": "Is time-based prospective remembering mediated by self-initiated rehearsals? Role of incidental cues, ongoing activity, age, and motivation.",
+    "authors": [
+      "Lia Kvavilashvili",
+      "Laura Fisher"
+    ],
+    "year": 2007,
+    "journal": "Journal of Experimental Psychology: General",
+    "doi_or_url": "https://doi.org/10.1037/0096-3445.136.1.112",
+    "citation_count": 191,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "event_vs_time_based_definition",
+      "self_initiated_retrieval_context",
+      "high_impact_theoretical_support"
+    ],
+    "parameter_bindings": {},
+    "notes": "High-impact open manuscript: https://uhra.herts.ac.uk/id/eprint/2323/1/103120.pdf"
+  }
+]

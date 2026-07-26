@@ -1,0 +1,2628 @@
+[
+  {
+    "id": "W1770958704",
+    "title": "Hippocampal sharp wave\u2010ripple: A cognitive biomarker for episodic memory and planning",
+    "authors": [
+      "Gy\u00f6rgy Buzs\u00e1ki"
+    ],
+    "year": 2015,
+    "journal": "Hippocampus",
+    "doi_or_url": "https://doi.org/10.1002/hipo.22488",
+    "citation_count": 1898,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2098212071",
+    "title": "An integrated theory of language production and comprehension",
+    "authors": [
+      "Martin J. Pickering",
+      "Simon Garrod"
+    ],
+    "year": 2013,
+    "journal": "Behavioral and Brain Sciences",
+    "doi_or_url": "https://doi.org/10.1017/s0140525x12001495",
+    "citation_count": 1573,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2538626945",
+    "title": "The theory of constructed emotion: an active inference account of interoception and categorization",
+    "authors": [
+      "Lisa Feldman Barrett"
+    ],
+    "year": 2016,
+    "journal": "Social Cognitive and Affective Neuroscience",
+    "doi_or_url": "https://doi.org/10.1093/scan/nsw154",
+    "citation_count": 1438,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1891932247",
+    "title": "Speech and language therapy for aphasia following stroke",
+    "authors": [
+      "Marian Brady",
+      "Helen Kelly",
+      "Jon Godwin",
+      "Pam Enderby",
+      "Pauline Campbell"
+    ],
+    "year": 2016,
+    "journal": "Cochrane Database of Systematic Reviews",
+    "doi_or_url": "https://doi.org/10.1002/14651858.cd000425.pub4",
+    "citation_count": 1141,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2161345458",
+    "title": "Overlapping talk and the organization of turn-taking for conversation",
+    "authors": [
+      "Emanuel A. Schegloff"
+    ],
+    "year": 2000,
+    "journal": "Language in Society",
+    "doi_or_url": "https://doi.org/10.1017/s0047404500001019",
+    "citation_count": 1125,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2155158173",
+    "title": "The Ease of Language Understanding (ELU) model: theoretical, empirical, and clinical advances",
+    "authors": [
+      "Jer\u00adker R\u00f6nnberg",
+      "Thomas Lunner",
+      "Adriana A. Zekveld",
+      "Patrik S\u00f6rqvist",
+      "Henrik Danielsson",
+      "Bj\u00f6rn Lyxell",
+      "\u00d6rjan Dahlstr\u00f6m",
+      "Carine Signoret",
+      "Stefan Stenfelt",
+      "M. Kathleen Pichora\u2010Fuller",
+      "Mary Rudner"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Systems Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnsys.2013.00031",
+    "citation_count": 978,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2141738416",
+    "title": "Imaginary Relish and Exquisite Torture: The Elaborated Intrusion Theory of Desire.",
+    "authors": [
+      "David J. Kavanagh",
+      "Jackie Andrade",
+      "Jon May"
+    ],
+    "year": 2005,
+    "journal": "Psychological Review",
+    "doi_or_url": "https://doi.org/10.1037/0033-295x.112.2.446",
+    "citation_count": 946,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1980240171",
+    "title": "AT THE INTERFACE: DYNAMIC INTERACTIONS OF EXPLICIT AND IMPLICIT LANGUAGE KNOWLEDGE",
+    "authors": [
+      "Nick C. Ellis"
+    ],
+    "year": 2005,
+    "journal": "Studies in Second Language Acquisition",
+    "doi_or_url": "https://doi.org/10.1017/s027226310505014x",
+    "citation_count": 879,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2163801252",
+    "title": "Comprehensive Overview of Nursing and Interdisciplinary Rehabilitation Care of the Stroke Patient",
+    "authors": [
+      "Elaine Miller",
+      "Laura L. Murray",
+      "Lorie Richards",
+      "Richard D. Zorowitz",
+      "Tamilyn Bakas",
+      "Patricia C. Clark",
+      "Sandra A. Billinger"
+    ],
+    "year": 2010,
+    "journal": "Stroke",
+    "doi_or_url": "https://doi.org/10.1161/str.0b013e3181e7512b",
+    "citation_count": 768,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2604536034",
+    "title": "The Cerebellum: Adaptive Prediction for Movement and Cognition",
+    "authors": [
+      "Arseny A. Sokolov",
+      "R. Chris Miall",
+      "Richard B. Ivry"
+    ],
+    "year": 2017,
+    "journal": "Trends in Cognitive Sciences",
+    "doi_or_url": "https://doi.org/10.1016/j.tics.2017.02.005",
+    "citation_count": 719,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1984383922",
+    "title": "Prediction, cognition and the brain",
+    "authors": [
+      "Andreja Bubi\u0107"
+    ],
+    "year": 2010,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2010.00025",
+    "citation_count": 662,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2053739443",
+    "title": "Cognitive Neuropsychology of HIV-Associated Neurocognitive Disorders",
+    "authors": [
+      "Steven Paul Woods",
+      "David J. Moore",
+      "Erica Weber",
+      "Igor Grant"
+    ],
+    "year": 2009,
+    "journal": "Neuropsychology Review",
+    "doi_or_url": "https://doi.org/10.1007/s11065-009-9102-5",
+    "citation_count": 574,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2580975499",
+    "title": "The current conceptualization of negative symptoms in schizophrenia",
+    "authors": [
+      "Stephen R. Marder",
+      "Silvana Galderisi"
+    ],
+    "year": 2017,
+    "journal": "World Psychiatry",
+    "doi_or_url": "https://doi.org/10.1002/wps.20385",
+    "citation_count": 535,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2100832063",
+    "title": "Episodic memory, perceptual memory, and their interaction: Foundations for a theory of posttraumatic stress disorder.",
+    "authors": [
+      "Chris R. Brewin"
+    ],
+    "year": 2013,
+    "journal": "Psychological Bulletin",
+    "doi_or_url": "https://doi.org/10.1037/a0033722",
+    "citation_count": 479,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2180456856",
+    "title": "Medical Diagnostic Decision Support Systems--Past, Present, And Future: A Threaded Bibliography and Brief Commentary",
+    "authors": [
+      "Randolph A. Miller"
+    ],
+    "year": 1994,
+    "journal": "Journal of the American Medical Informatics Association",
+    "doi_or_url": "https://doi.org/10.1136/jamia.1994.95236141",
+    "citation_count": 455,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4244820285",
+    "title": "The measurement of drug craving",
+    "authors": [
+      "Michael A. Sayette",
+      "Saul Shiffman",
+      "Stephen T. Tiffany",
+      "Raymond Niaura",
+      "Christopher S. Martin",
+      "William G. Schadel"
+    ],
+    "year": 2000,
+    "journal": "Addiction",
+    "doi_or_url": "https://doi.org/10.1046/j.1360-0443.95.8s2.8.x",
+    "citation_count": 435,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2172157752",
+    "title": "The N400 as a function of the level of processing",
+    "authors": [
+      "Dorothee J. Chwilla",
+      "Colin Brown",
+      "Peter Hagoort"
+    ],
+    "year": 1995,
+    "journal": "Psychophysiology",
+    "doi_or_url": "https://doi.org/10.1111/j.1469-8986.1995.tb02956.x",
+    "citation_count": 430,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2564899644",
+    "title": "Interoception and psychopathology: A developmental neuroscience perspective",
+    "authors": [
+      "Jennifer Murphy",
+      "Rebecca Brewer",
+      "Caroline Catmur",
+      "Geoffrey Bird"
+    ],
+    "year": 2016,
+    "journal": "Developmental Cognitive Neuroscience",
+    "doi_or_url": "https://doi.org/10.1016/j.dcn.2016.12.006",
+    "citation_count": 402,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2194032958",
+    "title": "Music Training Increases Phonological Awareness and Reading Skills in Developmental Dyslexia: A Randomized Control Trial",
+    "authors": [
+      "Elena Flaugnacco",
+      "Luisa Lopez",
+      "Chiara Terribili",
+      "Marcella Montico",
+      "Stefania Zoia",
+      "Daniele Sch\u00f6n"
+    ],
+    "year": 2015,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0138715",
+    "citation_count": 335,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2790546909",
+    "title": "Klinefelter Syndrome: Integrating Genetics, Neuropsychology, and Endocrinology",
+    "authors": [
+      "Claus H\u00f8jbjerg Gravholt",
+      "Simon Chang",
+      "Mikkel Wallentin",
+      "Jens Fedder",
+      "Philip J. Moore",
+      "Anne Skakkeb\u00e6k"
+    ],
+    "year": 2018,
+    "journal": "Endocrine Reviews",
+    "doi_or_url": "https://doi.org/10.1210/er.2017-00212",
+    "citation_count": 327,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2815156057",
+    "title": "Cognitive training for people with mild to moderate dementia",
+    "authors": [
+      "Alex Bahar\u2010Fuchs",
+      "Anthony Martyr",
+      "Anita Goh",
+      "Julieta Sabat\u00e9s",
+      "Linda Clare"
+    ],
+    "year": 2019,
+    "journal": "Cochrane Database of Systematic Reviews",
+    "doi_or_url": "https://doi.org/10.1002/14651858.cd013069.pub2",
+    "citation_count": 324,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3033835801",
+    "title": "Artificial intelligence within the interplay between natural and artificial computation: Advances in data science, trends and applications",
+    "authors": [
+      "J. M. G\u00f3rriz",
+      "Javier Ram\u0131\u0301rez",
+      "Andr\u00e9s Ort\u00edz",
+      "Francisco J. Mart\u00ednez-Murcia",
+      "F. Segovia",
+      "John Suckling",
+      "Matthew Leming",
+      "Yudong Zhang",
+      "Jos\u00e9 R. \u00c1lvarez",
+      "Guido Bologna",
+      "Paula Bonomini",
+      "Fernando E. Casado"
+    ],
+    "year": 2020,
+    "journal": "Neurocomputing",
+    "doi_or_url": "https://doi.org/10.1016/j.neucom.2020.05.078",
+    "citation_count": 317,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1977963497",
+    "title": "Out of one\u2019s mind: A study of involuntary semantic memories",
+    "authors": [
+      "Lia Kvavilashvili",
+      "George Mandler"
+    ],
+    "year": 2003,
+    "journal": "Cognitive Psychology",
+    "doi_or_url": "https://doi.org/10.1016/s0010-0285(03)00115-4",
+    "citation_count": 270,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2400733993",
+    "title": "Using wellbeing for public policy: Theory, measurement, and recommendations",
+    "authors": [
+      "Alejandro Adler",
+      "Martin E. P. Seligman"
+    ],
+    "year": 2016,
+    "journal": "International Journal of Wellbeing",
+    "doi_or_url": "https://doi.org/10.5502/ijw.v6i1.429",
+    "citation_count": 270,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2994981385",
+    "title": "The Nomological Net of the HEXACO Model of Personality: A Large-Scale Meta-Analytic Investigation",
+    "authors": [
+      "Ingo Zettler",
+      "Isabel Thielmann",
+      "Benjamin E. Hilbig",
+      "Morten Moshagen"
+    ],
+    "year": 2020,
+    "journal": "Perspectives on Psychological Science",
+    "doi_or_url": "https://doi.org/10.1177/1745691619895036",
+    "citation_count": 259,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3011856986",
+    "title": "Early diagnosis of Alzheimer\u2019s disease: the role of biomarkers including advanced EEG signal analysis. Report from the IFCN-sponsored panel of experts",
+    "authors": [
+      "Paolo Maria Rossini",
+      "Riccardo Di Iorio",
+      "F. Vecchio",
+      "Maria Anfossi",
+      "Claudio Babiloni",
+      "Marco Bozzali",
+      "Amalia C. Bruni",
+      "Stefano F. Cappa",
+      "Javier Escudero",
+      "Francisco J. Fraga",
+      "Pant\u00e9leimon Giannakopoulos",
+      "Bahar G\u00fcntekin"
+    ],
+    "year": 2020,
+    "journal": "Clinical Neurophysiology",
+    "doi_or_url": "https://doi.org/10.1016/j.clinph.2020.03.003",
+    "citation_count": 237,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2100045262",
+    "title": "Beyond g: Putting multiple intelligences theory to the test",
+    "authors": [
+      "Beth A. Visser",
+      "Michael C. Ashton",
+      "Philip A. Vernon"
+    ],
+    "year": 2006,
+    "journal": "Intelligence",
+    "doi_or_url": "https://doi.org/10.1016/j.intell.2006.02.004",
+    "citation_count": 237,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2094348922",
+    "title": "Glutamatergic Model Psychoses: Prediction Error, Learning, and Inference",
+    "authors": [
+      "Philip R. Corlett",
+      "G.D. Honey",
+      "John H. Krystal",
+      "Paul C. Fletcher"
+    ],
+    "year": 2010,
+    "journal": "Neuropsychopharmacology",
+    "doi_or_url": "https://doi.org/10.1038/npp.2010.163",
+    "citation_count": 237,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2409156987",
+    "title": "Theories of Memory and Aging: A Look at the Past and a Glimpse of the Future",
+    "authors": [
+      "Denise C. Park",
+      "Sara B. Festini"
+    ],
+    "year": 2016,
+    "journal": "The Journals of Gerontology Series B",
+    "doi_or_url": "https://doi.org/10.1093/geronb/gbw066",
+    "citation_count": 224,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2159095909",
+    "title": "Structure-Mapping in Metaphor Comprehension",
+    "authors": [
+      "Phillip Wolff",
+      "Dedre Gentner"
+    ],
+    "year": 2011,
+    "journal": "Cognitive Science",
+    "doi_or_url": "https://doi.org/10.1111/j.1551-6709.2011.01194.x",
+    "citation_count": 224,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2102870618",
+    "title": "Banishing the Control Homunculi in Studies of Action Control and Behavior Change",
+    "authors": [
+      "Frederick Verbruggen",
+      "Ian P. L. McLaren",
+      "Chris Chambers"
+    ],
+    "year": 2014,
+    "journal": "Perspectives on Psychological Science",
+    "doi_or_url": "https://doi.org/10.1177/1745691614526414",
+    "citation_count": 223,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2907162900",
+    "title": "The Discriminative Lexicon: A Unified Computational Model for the Lexicon and Lexical Processing in Comprehension and Production Grounded Not in (De)Composition but in Linear Discriminative Learning",
+    "authors": [
+      "R. Harald Baayen",
+      "Yu\u2010Ying Chuang",
+      "Elnaz Shafaei-Bajestan",
+      "James P. Blevins"
+    ],
+    "year": 2019,
+    "journal": "Complexity",
+    "doi_or_url": "https://doi.org/10.1155/2019/4895891",
+    "citation_count": 214,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2148044536",
+    "title": "Brain adaptation and alternative developmental trajectories",
+    "authors": [
+      "Mark H. Johnson",
+      "Emily J. H. Jones",
+      "Teodora Gliga"
+    ],
+    "year": 2015,
+    "journal": "Development and Psychopathology",
+    "doi_or_url": "https://doi.org/10.1017/s0954579415000073",
+    "citation_count": 210,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2582549085",
+    "title": "Modeling Trait Anxiety: From Computational Processes to Personality",
+    "authors": [
+      "James G. Raymond",
+      "J. Douglas Steele",
+      "Peggy Seri\u00e8s"
+    ],
+    "year": 2017,
+    "journal": "Frontiers in Psychiatry",
+    "doi_or_url": "https://doi.org/10.3389/fpsyt.2017.00001",
+    "citation_count": 209,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2429866512",
+    "title": "Individual differences in the executive control of attention, memory, and thought, and their associations with schizotypy.",
+    "authors": [
+      "Michael J. Kane",
+      "Matt E. Meier",
+      "Bridget A. Smeekens",
+      "Georgina M. Gross",
+      "Charlotte A. Chun",
+      "Paul J. Silvia",
+      "Thomas R. Kwapil"
+    ],
+    "year": 2016,
+    "journal": "Journal of Experimental Psychology General",
+    "doi_or_url": "https://doi.org/10.1037/xge0000184",
+    "citation_count": 206,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2125838454",
+    "title": "Cognitive and Neural Aspects of Information Processing in Major Depressive Disorder: An Integrative Perspective",
+    "authors": [
+      "Lara C. Foland\u2010Ross",
+      "Ian H. Gotlib"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2012.00489",
+    "citation_count": 200,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2092252440",
+    "title": "Multimodal Child-Robot Interaction: Building Social Bonds",
+    "authors": [
+      "Belpaeme, T.",
+      "Looije, R.",
+      "Mioch, T.",
+      "Neerincx, M.A.",
+      "et al"
+    ],
+    "year": 2012,
+    "journal": "TNO Repository",
+    "doi_or_url": "https://openalex.org/W2092252440",
+    "citation_count": 193,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2067955936",
+    "title": "Is time-based prospective remembering mediated by self-initiated rehearsals? Role of incidental cues, ongoing activity, age, and motivation.",
+    "authors": [
+      "Lia Kvavilashvili",
+      "Laura B. Fisher"
+    ],
+    "year": 2007,
+    "journal": "Journal of Experimental Psychology General",
+    "doi_or_url": "https://doi.org/10.1037/0096-3445.136.1.112",
+    "citation_count": 191,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3016615645",
+    "title": "The Domain-General Multiple Demand (MD) Network Does Not Support Core Aspects of Language Comprehension: A Large-Scale fMRI Investigation",
+    "authors": [
+      "Evgeniia Diachek",
+      "Idan Blank",
+      "Matthew Siegelman",
+      "Josef Affourtit",
+      "Evelina Fedorenko"
+    ],
+    "year": 2020,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.2036-19.2020",
+    "citation_count": 182,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4213104648",
+    "title": "Sensors and Actuation Technologies in Exoskeletons: A Review",
+    "authors": [
+      "Monica Tiboni",
+      "Alberto Borboni",
+      "Fabien V\u00e9rit\u00e9",
+      "Chiara Bregoli",
+      "Cinzia Amici"
+    ],
+    "year": 2022,
+    "journal": "Sensors",
+    "doi_or_url": "https://doi.org/10.3390/s22030884",
+    "citation_count": 172,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2132773811",
+    "title": "Dementia of the Alzheimer Type",
+    "authors": [
+      "Jessica J. Jalbert",
+      "Lori A. Daiello",
+      "Kate L. Lapane"
+    ],
+    "year": 2008,
+    "journal": "Epidemiologic Reviews",
+    "doi_or_url": "https://doi.org/10.1093/epirev/mxn008",
+    "citation_count": 169,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4383751019",
+    "title": "Machine-Generated Text: A Comprehensive Survey of Threat Models and Detection Methods",
+    "authors": [
+      "Evan Crothers",
+      "Nathalie Japkowicz",
+      "Herna L. Viktor"
+    ],
+    "year": 2023,
+    "journal": "IEEE Access",
+    "doi_or_url": "https://doi.org/10.1109/access.2023.3294090",
+    "citation_count": 166,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2002939956",
+    "title": "Availability of related long-term memory during and after attention focus in working memory",
+    "authors": [
+      "Dan J. Woltz",
+      "Christopher A. Was"
+    ],
+    "year": 2006,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/bf03193587",
+    "citation_count": 152,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1881449463",
+    "title": "Promoting the translation of intentions into action by implementation intentions: behavioral effects and physiological correlates",
+    "authors": [
+      "Frank Wieber",
+      "J. Lukas Th\u00fcrmer",
+      "Peter M. Gollwitzer"
+    ],
+    "year": 2015,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2015.00395",
+    "citation_count": 149,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2136763318",
+    "title": "Gender-Specific Effects of Prenatal and Adolescent Exposure to Tobacco Smoke on Auditory and Visual Attention",
+    "authors": [
+      "Leslie K. Jacobsen",
+      "Theodore A. Slotkin",
+      "W. Einar Mencl",
+      "Stephen J. Frost",
+      "Kenneth R. Pugh"
+    ],
+    "year": 2007,
+    "journal": "Neuropsychopharmacology",
+    "doi_or_url": "https://doi.org/10.1038/sj.npp.1301398",
+    "citation_count": 146,
+    "is_high_impact": true,
+    "open_access": false,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3152268000",
+    "title": "Data augmentation in natural language processing: a novel text generation approach for long and short text classifiers",
+    "authors": [
+      "Markus Bayer",
+      "Marc\u2013Andr\u00e9 Kaufhold",
+      "Bj\u00f6rn Buchhold",
+      "Marcel Keller",
+      "J\u00f6rg Dallmeyer",
+      "Christian Reuter"
+    ],
+    "year": 2022,
+    "journal": "International Journal of Machine Learning and Cybernetics",
+    "doi_or_url": "https://doi.org/10.1007/s13042-022-01553-3",
+    "citation_count": 145,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2803178765",
+    "title": "Brain Stimulation in Alzheimer's Disease",
+    "authors": [
+      "Chun-Hung Chang",
+      "Hsien\u2010Yuan Lane",
+      "Chieh\u2010Hsin Lin"
+    ],
+    "year": 2018,
+    "journal": "Frontiers in Psychiatry",
+    "doi_or_url": "https://doi.org/10.3389/fpsyt.2018.00201",
+    "citation_count": 142,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4391892535",
+    "title": "The Impact of Artificial Intelligence on Language Translation: A Review",
+    "authors": [
+      "Yasir Abdelgadir Mohamed",
+      "Akbar Khanan",
+      "Mohamed Bashir",
+      "Abdul Hakim H. M. Mohamed",
+      "Mousab A. E. Adiel",
+      "Muawia A. Elsadig"
+    ],
+    "year": 2024,
+    "journal": "IEEE Access",
+    "doi_or_url": "https://doi.org/10.1109/access.2024.3366802",
+    "citation_count": 141,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2028185090",
+    "title": "Phonological and conceptual activation in speech comprehension",
+    "authors": [
+      "Dennis Norris",
+      "Anne Cutler",
+      "James M. McQueen",
+      "Sally Butterfield"
+    ],
+    "year": 2006,
+    "journal": "Cognitive Psychology",
+    "doi_or_url": "https://doi.org/10.1016/j.cogpsych.2006.03.001",
+    "citation_count": 139,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2404559385",
+    "title": "Hearing, Cognition, and Healthy Aging: Social and Public Health Implications of the Links between Age-Related Declines in Hearing and Cognition",
+    "authors": [
+      "Paul Mick",
+      "Marilyn Reed",
+      "M. Kathleen Pichora\u2010Fuller"
+    ],
+    "year": 2015,
+    "journal": "Seminars in Hearing",
+    "doi_or_url": "https://doi.org/10.1055/s-0035-1555116",
+    "citation_count": 138,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4392169182",
+    "title": "Object Detection in Autonomous Vehicles under Adverse Weather: A Review of Traditional and Deep Learning Approaches",
+    "authors": [
+      "Noor Ul Ain Tahir",
+      "Zuping Zhang",
+      "Muhammad Asim",
+      "Junhong Chen",
+      "Mohammed ElAffendi"
+    ],
+    "year": 2024,
+    "journal": "Algorithms",
+    "doi_or_url": "https://doi.org/10.3390/a17030103",
+    "citation_count": 134,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2008382643",
+    "title": "Characterizing cognitive aging in humans with links to animal models",
+    "authors": [
+      "Gene E. Alexander",
+      "Lee Ryan",
+      "Dawn Bowers",
+      "Thomas C. Foster",
+      "Jennifer L. Bizon",
+      "David Geldmacher",
+      "Elizabeth L. Glisky"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Aging Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnagi.2012.00021",
+    "citation_count": 133,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2253571228",
+    "title": "Temporal Attention as a Scaffold for Language Development",
+    "authors": [
+      "Ruth de Diego\u2010Balaguer",
+      "Anna Martinez\u2010Alvarez",
+      "Ferr\u00e1n Pons"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2016.00044",
+    "citation_count": 133,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1999909108",
+    "title": "Provenance of correlations in psychological data",
+    "authors": [
+      "Thomas L. Thornton",
+      "David L. Gilden"
+    ],
+    "year": 2005,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03193785",
+    "citation_count": 131,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3091783736",
+    "title": "Creativity and ADHD: A review of behavioral studies, the effect of psychostimulants and neural underpinnings",
+    "authors": [
+      "Martine Hoogman",
+      "Marije Stolte",
+      "Matthijs Baas",
+      "Evelyn H. Kroesbergen"
+    ],
+    "year": 2020,
+    "journal": "Neuroscience & Biobehavioral Reviews",
+    "doi_or_url": "https://doi.org/10.1016/j.neubiorev.2020.09.029",
+    "citation_count": 129,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2048879721",
+    "title": "The development of prospective memory in children: An executive framework",
+    "authors": [
+      "Caitlin E. V. Mahy",
+      "Louis J. Moses",
+      "Matthias Kliegel"
+    ],
+    "year": 2014,
+    "journal": "Developmental Review",
+    "doi_or_url": "https://doi.org/10.1016/j.dr.2014.08.001",
+    "citation_count": 125,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1964234927",
+    "title": "Number of cues influences the cost of remembering to remember",
+    "authors": [
+      "Anna-Lisa Cohen",
+      "Alexander Jaudas",
+      "Peter M. Gollwitzer"
+    ],
+    "year": 2008,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/mc.36.1.149",
+    "citation_count": 124,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2013400137",
+    "title": "Implementation intentions facilitate prospective memory under high attention demands",
+    "authors": [
+      "Mark A. McDaniel",
+      "Daniel C. Howard",
+      "Karin M. Butler"
+    ],
+    "year": 2008,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/mc.36.4.716",
+    "citation_count": 123,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1998949269",
+    "title": "Aging and situation model processing",
+    "authors": [
+      "Gabriel A. Radvansky",
+      "Katinka Dijkstra"
+    ],
+    "year": 2007,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03193088",
+    "citation_count": 121,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1985705748",
+    "title": "Implementation intention encoding does not automatize prospective memory responding",
+    "authors": [
+      "Mark A. McDaniel",
+      "Michael K. Scullin"
+    ],
+    "year": 2010,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/mc.38.2.221",
+    "citation_count": 121,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1556622500",
+    "title": "Dual pathways to prospective remembering",
+    "authors": [
+      "Mark A. McDaniel",
+      "Sharda Umanath",
+      "Gilles O. Einstein",
+      "Emily R. Waldum"
+    ],
+    "year": 2015,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2015.00392",
+    "citation_count": 120,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2296246504",
+    "title": "Temperament and arousal systems: A new synthesis of differential psychology and functional neurochemistry",
+    "authors": [
+      "\u0418\u0440\u0438\u043d\u0430 \u0422\u0440\u043e\u0444\u0438\u043c\u043e\u0432\u0430",
+      "Trevor W. Robbins"
+    ],
+    "year": 2016,
+    "journal": "Neuroscience & Biobehavioral Reviews",
+    "doi_or_url": "https://doi.org/10.1016/j.neubiorev.2016.03.008",
+    "citation_count": 116,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2033267575",
+    "title": "Individual differences in event-based prospective memory: Evidence for multiple processes supporting cue detection",
+    "authors": [
+      "Gene A. Brewer",
+      "Jasper Knight",
+      "Richard L. Marsh",
+      "Nash Unsworth"
+    ],
+    "year": 2010,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/mc.38.3.304",
+    "citation_count": 114,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2006687005",
+    "title": "Premorbid cognitive deficits in young relatives of schizophrenia patients",
+    "authors": [
+      "Matcheri S. Keshavan"
+    ],
+    "year": 2009,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/neuro.09.062.2009",
+    "citation_count": 110,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2107031273",
+    "title": "Self-regulatory strategy and executive control: implementation intentions modulate task switching and Simon task performance",
+    "authors": [
+      "Anna-Lisa Cohen",
+      "Ute C. Bayer",
+      "Alexander Jaudas",
+      "Peter M. Gollwitzer"
+    ],
+    "year": 2006,
+    "journal": "Psychological Research",
+    "doi_or_url": "https://doi.org/10.1007/s00426-006-0074-2",
+    "citation_count": 109,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2072902618",
+    "title": "How important is importance for prospective memory? A review",
+    "authors": [
+      "Stefan Markus Walter",
+      "Beat Meier"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2014.00657",
+    "citation_count": 108,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2044605728",
+    "title": "STRATEGIES IN RESPONDING TO THE NEW TOEFL READING TASKS",
+    "authors": [
+      "Andrew D. Cohen",
+      "Thomas A. Upton"
+    ],
+    "year": 2006,
+    "journal": "ETS Research Report Series",
+    "doi_or_url": "https://doi.org/10.1002/j.2333-8504.2006.tb02012.x",
+    "citation_count": 106,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2072521400",
+    "title": "Second Language Processing Shows Increased Native-Like Neural Responses after Months of No Exposure",
+    "authors": [
+      "Kara Morgan\u2010Short",
+      "Ingrid Finger",
+      "Sarah Grey",
+      "Michael T. Ullman"
+    ],
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0032974",
+    "citation_count": 106,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2954232570",
+    "title": "Attention and its Role: Theories and Models",
+    "authors": [
+      "Athanasios Drigas",
+      "Maria Karyotaki"
+    ],
+    "year": 2019,
+    "journal": "International Journal of Emerging Technologies in Learning (iJET)",
+    "doi_or_url": "https://doi.org/10.3991/ijet.v14i12.10185",
+    "citation_count": 105,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4303188356",
+    "title": "Mood-congruent memory revisited.",
+    "authors": [
+      "Leonard Faul",
+      "Kevin S. LaBar"
+    ],
+    "year": 2022,
+    "journal": "Psychological Review",
+    "doi_or_url": "https://doi.org/10.1037/rev0000394",
+    "citation_count": 104,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4390571745",
+    "title": "Artificial intelligence: revolutionizing cardiology with large language models",
+    "authors": [
+      "Machteld Boonstra",
+      "Davy Weissenbacher",
+      "Jason H. Moore",
+      "Graciela Gonzalez\u2010Hernandez",
+      "Folkert W. Asselbergs"
+    ],
+    "year": 2024,
+    "journal": "European Heart Journal",
+    "doi_or_url": "https://doi.org/10.1093/eurheartj/ehad838",
+    "citation_count": 104,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2045358028",
+    "title": "Levels of representation in the interpretation of anaphoric reference and instrument inference",
+    "authors": [
+      "Margery Lucas",
+      "Michael K. Tanenhaus",
+      "Greg N. Carlson"
+    ],
+    "year": 1990,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/bf03197104",
+    "citation_count": 103,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1869892316",
+    "title": "Co\u2010occurring development of early childhood communication and motor skills: results from a population\u2010based longitudinal study",
+    "authors": [
+      "Mari Vaage Wang",
+      "Ratib Lekhal",
+      "Leif Edvard Aar\u00f8",
+      "Synnve Schj\u00f8lberg"
+    ],
+    "year": 2012,
+    "journal": "Child Care Health and Development",
+    "doi_or_url": "https://doi.org/10.1111/cch.12003",
+    "citation_count": 102,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4386694307",
+    "title": "White matter tracts and executive functions: a review of causal and correlation evidence",
+    "authors": [
+      "Monica Ribeiro",
+      "Yordanka Yordanova",
+      "Vincent Noblet",
+      "Guillaume Herbet",
+      "Damien Ricard"
+    ],
+    "year": 2023,
+    "journal": "Brain",
+    "doi_or_url": "https://doi.org/10.1093/brain/awad308",
+    "citation_count": 101,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4385344405",
+    "title": "The cerebellum and cognitive neural networks",
+    "authors": [
+      "Pingshu Zhang",
+      "Liqin Duan",
+      "Ya Ou",
+      "Qirong Ling",
+      "Lingyun Cao",
+      "Hongchun Qian",
+      "Jian Zhang",
+      "Jing Wang",
+      "Xiaodong Yuan"
+    ],
+    "year": 2023,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2023.1197459",
+    "citation_count": 98,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2008090301",
+    "title": "Is task interference in event-based prospective memory dependent on cue presentation?",
+    "authors": [
+      "Shayne Loft",
+      "Rebecca Kearney",
+      "Roger W. Remington"
+    ],
+    "year": 2008,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/mc.36.1.139",
+    "citation_count": 95,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2969650498",
+    "title": "The ConDialInt Model: Condensation, Dialogality, and Intentionality Dimensions of Inner Speech Within a Hierarchical Predictive Control Framework",
+    "authors": [
+      "Romain Grandchamp",
+      "Lucile Rapin",
+      "Marcela Perrone\u2010Bertolotti",
+      "C\u00e9dric Pichat",
+      "C\u00e9lise Haldin",
+      "\u00c9milie Cousin",
+      "Jean-Philippe Lachaux",
+      "Marion Dohen",
+      "Pascal Perrier",
+      "Ma\u00ebva Garnier",
+      "Monica Baciu",
+      "H\u00e9l\u00e8ne L\u0153venbruck"
+    ],
+    "year": 2019,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2019.02019",
+    "citation_count": 95,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4385835130",
+    "title": "The Personal Health Applications of Machine Learning Techniques in the Internet of Behaviors",
+    "authors": [
+      "Zahra Mohtasham\u2010Amiri",
+      "Arash Heidari",
+      "Mehdi Darbandi",
+      "Yalda Yazdani",
+      "Nima Jafari Navimipour",
+      "Mansour Esmaeilpour",
+      "Farshid Sheykhi",
+      "Mehmet \u00dcnal"
+    ],
+    "year": 2023,
+    "journal": "Sustainability",
+    "doi_or_url": "https://doi.org/10.3390/su151612406",
+    "citation_count": 94,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1993703734",
+    "title": "Differential effects of age on prospective and retrospective memory tasks in young, young-old, and old-old adults",
+    "authors": [
+      "Lia Kvavilashvili",
+      "Diana Kornbrot",
+      "Veronica Mash",
+      "Janet Cockburn",
+      "Alan B. Milne"
+    ],
+    "year": 2008,
+    "journal": "Memory",
+    "doi_or_url": "https://doi.org/10.1080/09658210802194366",
+    "citation_count": 93,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2773305147",
+    "title": "Uncovering the Mechanisms Responsible for Why Language Learning May Promote Healthy Cognitive Aging",
+    "authors": [
+      "Mark Antoniou",
+      "Sarah M. Wright"
+    ],
+    "year": 2017,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2017.02217",
+    "citation_count": 93,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2980660890",
+    "title": "Theta and alpha oscillations as signatures of internal and external attention to delayed intentions: A magnetoencephalography (MEG) study",
+    "authors": [
+      "Giorgia Cona",
+      "Francesco Chiossi",
+      "Silvia Di Tomasso",
+      "Giovanni Pellegrino",
+      "Francesco Piccione",
+      "Patrizia Bisiacchi",
+      "Giorgio Arcara"
+    ],
+    "year": 2019,
+    "journal": "NeuroImage",
+    "doi_or_url": "https://doi.org/10.1016/j.neuroimage.2019.116295",
+    "citation_count": 90,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1985208686",
+    "title": "Science teachers' attempts at integrating feminist pedagogy through collaborative action research",
+    "authors": [
+      "Brenda Capobianco"
+    ],
+    "year": 2006,
+    "journal": "Journal of Research in Science Teaching",
+    "doi_or_url": "https://doi.org/10.1002/tea.20120",
+    "citation_count": 90,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2090275406",
+    "title": "Less Effort, Better Results: How Does Music Act on Prefrontal Cortex in Older Adults during Verbal Encoding? An fNIRS Study",
+    "authors": [
+      "Laura Ferreri",
+      "Emmanuel Bigand",
+      "St\u00e9phane Perrey",
+      "Makii Muthalib",
+      "Patrick Bard",
+      "Aur\u00c3\u00a9lia Bugaiska"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2014.00301",
+    "citation_count": 88,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4401547143",
+    "title": "Causal Inference Meets Deep Learning: A Comprehensive Survey",
+    "authors": [
+      "Licheng Jiao",
+      "Yuhan Wang",
+      "Xu Liu",
+      "Lingling Li",
+      "Fang Liu",
+      "Wenping Ma",
+      "Yuwei Guo",
+      "Puhua Chen",
+      "Shuyuan Yang",
+      "Biao Hou"
+    ],
+    "year": 2024,
+    "journal": "Research",
+    "doi_or_url": "https://doi.org/10.34133/research.0467",
+    "citation_count": 87,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W313416563",
+    "title": "Highlights in the History of Oral Teacher Preparation in America",
+    "authors": [
+      "Alan Louis Marvelli"
+    ],
+    "year": 2010,
+    "journal": "The Volta Review",
+    "doi_or_url": "https://doi.org/10.17955/tvr.110.2.m.647",
+    "citation_count": 85,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1964678830",
+    "title": "Autonomic Dysfunction in Mild Cognitive Impairment: Evidence from Power Spectral Analysis of Heart Rate Variability in a Cross-Sectional Case-Control Study",
+    "authors": [
+      "Paola Nicolini",
+      "Michele M. Ciulla",
+      "Gabriella Malfatto",
+      "Carlo Abbate",
+      "Daniela Mari",
+      "Paolo Rossi",
+      "Emanuela Pettenuzzo",
+      "Fabio Magrini",
+      "Dario Consonni",
+      "Federico Lombardi"
+    ],
+    "year": 2014,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0096656",
+    "citation_count": 84,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2167316143",
+    "title": "Semantic generalization of stimulus-task bindings",
+    "authors": [
+      "Florian Waszak",
+      "Bernhard Hommel",
+      "Alan Allport"
+    ],
+    "year": 2004,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03196732",
+    "citation_count": 84,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2617058103",
+    "title": "Toward a taxonomic model of attention in effortful listening",
+    "authors": [
+      "Daniel J. Strau\u00df",
+      "Alexander L. Francis"
+    ],
+    "year": 2017,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/s13415-017-0513-0",
+    "citation_count": 83,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3183253879",
+    "title": "Best Practices in the Clinical Management of Progressive Supranuclear Palsy and Corticobasal Syndrome: A Consensus Statement of the CurePSP Centers of Care",
+    "authors": [
+      "Brent Bluett",
+      "Alexander Pantelyat",
+      "Irene Litvan",
+      "Farwa Ali",
+      "Diana Apetauerova",
+      "Danny Bega",
+      "Lisa Bloom",
+      "James H. Bower",
+      "Adam L. Boxer",
+      "Marian L. Dale",
+      "Rohit Dhall",
+      "Antoine Duquette"
+    ],
+    "year": 2021,
+    "journal": "Frontiers in Neurology",
+    "doi_or_url": "https://doi.org/10.3389/fneur.2021.694872",
+    "citation_count": 79,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4378194309",
+    "title": "Memory and creativity: A meta-analytic examination of the relationship between memory systems and creative cognition",
+    "authors": [
+      "Courtney R. Gerver",
+      "Jason W. Griffin",
+      "Nancy A. Dennis",
+      "Roger E. Beaty"
+    ],
+    "year": 2023,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/s13423-023-02303-4",
+    "citation_count": 76,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2060399505",
+    "title": "Two principles of organization in the prefrontal cortex are cognitive hierarchy and degree of automaticity",
+    "authors": [
+      "Hyeon\u2010Ae Jeon",
+      "Angela D. Friederici"
+    ],
+    "year": 2013,
+    "journal": "Nature Communications",
+    "doi_or_url": "https://doi.org/10.1038/ncomms3041",
+    "citation_count": 75,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2162321391",
+    "title": "Evaluation of a virtual reality prospective memory task for use with individuals with severe traumatic brain injury",
+    "authors": [
+      "Allana L. Canty",
+      "Jennifer Fleming",
+      "Freyr Patterson",
+      "Heather Green",
+      "David Man",
+      "David Shum"
+    ],
+    "year": 2014,
+    "journal": "Neuropsychological Rehabilitation",
+    "doi_or_url": "https://doi.org/10.1080/09602011.2014.881746",
+    "citation_count": 73,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2471454270",
+    "title": "Exploring the Neural Representation of Novel Words Learned through Enactment in a Word Recognition Task",
+    "authors": [
+      "Manuela Macedonia",
+      "Karsten Mueller"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2016.00953",
+    "citation_count": 72,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4210728939",
+    "title": "What is Functional Communication? A Theoretical Framework for Real-World Communication Applied to Aphasia Rehabilitation",
+    "authors": [
+      "Willemijn Doedens",
+      "Lotte Meteyard"
+    ],
+    "year": 2022,
+    "journal": "Neuropsychology Review",
+    "doi_or_url": "https://doi.org/10.1007/s11065-021-09531-2",
+    "citation_count": 72,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4402589129",
+    "title": "Machine learning in business and finance: a literature review and research opportunities",
+    "authors": [
+      "Hanyao Gao",
+      "Gang Kou",
+      "Haiming Liang",
+      "Hengjie Zhang",
+      "Xiangrui Chao",
+      "Cong\u2010Cong Li",
+      "Yucheng Dong"
+    ],
+    "year": 2024,
+    "journal": "Financial Innovation",
+    "doi_or_url": "https://doi.org/10.1186/s40854-024-00629-z",
+    "citation_count": 72,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2032349320",
+    "title": "An investigation into the resource requirements of event-based prospective memory",
+    "authors": [
+      "Shayne Loft",
+      "Gillian Yeo"
+    ],
+    "year": 2007,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/bf03193447",
+    "citation_count": 72,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3008967150",
+    "title": "Deficits in Spontaneous Cognition as an Early Marker of Alzheimer\u2019s Disease",
+    "authors": [
+      "Lia Kvavilashvili",
+      "Agnieszka Nied\u017awie\u0144ska",
+      "Sam J. Gilbert",
+      "Ioanna Markostamou"
+    ],
+    "year": 2020,
+    "journal": "Trends in Cognitive Sciences",
+    "doi_or_url": "https://doi.org/10.1016/j.tics.2020.01.005",
+    "citation_count": 70,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4319602153",
+    "title": "Executive function abilities in cognitively healthy young and older adults\u2014A cross-sectional study",
+    "authors": [
+      "Mojitola I. Idowu",
+      "Andr\u00e9 J. Szameitat"
+    ],
+    "year": 2023,
+    "journal": "Frontiers in Aging Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnagi.2023.976915",
+    "citation_count": 69,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4223998421",
+    "title": "Blueberry Supplementation in Midlife for Dementia Risk Reduction",
+    "authors": [
+      "Robert Krikorian",
+      "Matthew R. Skelton",
+      "Suzanne Summer",
+      "Marcelle D. Shidler",
+      "Patrick G. Sullivan"
+    ],
+    "year": 2022,
+    "journal": "Nutrients",
+    "doi_or_url": "https://doi.org/10.3390/nu14081619",
+    "citation_count": 69,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4280599993",
+    "title": "The differences and similarities between curiosity and interest: Meta-analysis and network analyses",
+    "authors": [
+      "Xin Tang",
+      "K. Ann Renninger",
+      "Suzanne Hidi",
+      "Kou Murayama",
+      "Jari Lavonen",
+      "Katariina Salmela\u2010Aro"
+    ],
+    "year": 2022,
+    "journal": "Learning and Instruction",
+    "doi_or_url": "https://doi.org/10.1016/j.learninstruc.2022.101628",
+    "citation_count": 67,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2906422146",
+    "title": "Redefining the pattern of age-prospective memory-paradox: new insights on age effects in lab-based, naturalistic, and self-assigned tasks",
+    "authors": [
+      "Katharina M. Schnitzspahn",
+      "Lia Kvavilashvili",
+      "Mareike Altgassen"
+    ],
+    "year": 2018,
+    "journal": "Psychological Research",
+    "doi_or_url": "https://doi.org/10.1007/s00426-018-1140-2",
+    "citation_count": 66,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2032939168",
+    "title": "A diffusion model analysis of task interference effects in prospective memory",
+    "authors": [
+      "C. Dennis Boywitt",
+      "Jan Rummel"
+    ],
+    "year": 2011,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/s13421-011-0128-6",
+    "citation_count": 65,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1495848457",
+    "title": "Assembling Recidivism: The Promise and Contingencies of Post-Release Life",
+    "authors": [
+      "Mark Halsey"
+    ],
+    "year": 2007,
+    "journal": "Unknown",
+    "doi_or_url": "https://openalex.org/W1495848457",
+    "citation_count": 65,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2115475461",
+    "title": "Development of magnitude processing in children with developmental dyscalculia: space, time, and number",
+    "authors": [
+      "Kenny Skagerlund",
+      "Ulf Tr\u00e4ff"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2014.00675",
+    "citation_count": 65,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1588919618",
+    "title": "Loads and loads and loads: the influence of prospective load, retrospective load, and ongoing task load in prospective memory",
+    "authors": [
+      "Beat Meier",
+      "Thomas D. Zimmermann"
+    ],
+    "year": 2015,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2015.00322",
+    "citation_count": 65,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2163542051",
+    "title": "Prospective memory: Are preparatory attentional processes necessary for a single focal cue?",
+    "authors": [
+      "Tyler L. Harrison",
+      "Gilles O. Einstein"
+    ],
+    "year": 2010,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/mc.38.7.860",
+    "citation_count": 65,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1966001310",
+    "title": "The relation of tip-of-the-tongue states and retrieval time",
+    "authors": [
+      "Bennett L. Schwartz"
+    ],
+    "year": 2001,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/bf03195746",
+    "citation_count": 61,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2019511163",
+    "title": "Forward models and their implications for production, comprehension, and dialogue",
+    "authors": [
+      "Martin J. Pickering",
+      "Simon Garrod"
+    ],
+    "year": 2013,
+    "journal": "Behavioral and Brain Sciences",
+    "doi_or_url": "https://doi.org/10.1017/s0140525x12003238",
+    "citation_count": 60,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2141062481",
+    "title": "Trends and Challenges in Teacher Preparation in Deaf Education",
+    "authors": [
+      "Susan Lenihan"
+    ],
+    "year": 2010,
+    "journal": "The Volta Review",
+    "doi_or_url": "https://doi.org/10.17955/tvr.110.2.m.632",
+    "citation_count": 59,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2967419128",
+    "title": "Downstream Behavioral and Electrophysiological Consequences of Word Prediction on Recognition Memory",
+    "authors": [
+      "Ryan Hubbard",
+      "Joost Rommers",
+      "Cassandra L. Jacobs",
+      "Kara D. Federmeier"
+    ],
+    "year": 2019,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2019.00291",
+    "citation_count": 59,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2132610720",
+    "title": "Strengthening encoding via implementation intention formation increases prospective memory commission errors",
+    "authors": [
+      "Julie M. Bugg",
+      "Michael K. Scullin",
+      "Mark A. McDaniel"
+    ],
+    "year": 2013,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/s13423-013-0378-3",
+    "citation_count": 58,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2618673610",
+    "title": "Modeling cognitive load effects of conversation between a passenger and driver",
+    "authors": [
+      "Gabriel Tillman",
+      "David L. Strayer",
+      "Ami Eidels",
+      "Andrew Heathcote"
+    ],
+    "year": 2017,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/s13414-017-1337-2",
+    "citation_count": 57,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2134045149",
+    "title": "Coming To Terms: A Theory of Writing Assessment",
+    "authors": [
+      "Patricia Lynne"
+    ],
+    "year": 2004,
+    "journal": "Digital Commons - USU (Utah State University)",
+    "doi_or_url": "https://openalex.org/W2134045149",
+    "citation_count": 57,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3040535676",
+    "title": "Neuroimaging and Psychometric Assessment of Mild Cognitive Impairment After Traumatic Brain Injury",
+    "authors": [
+      "Maria Calvillo",
+      "Andrei Irimia"
+    ],
+    "year": 2020,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2020.01423",
+    "citation_count": 57,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4387186732",
+    "title": "Cognitive Crescendo: How Music Shapes the Brain\u2019s Structure and Function",
+    "authors": [
+      "Corneliu Toader",
+      "C\u0103lin Petru T\u0103taru",
+      "Ioan Alexandru Florian",
+      "R\u0103zvan-Adrian Covache-Busuioc",
+      "Bogdan-Gabriel Bratu",
+      "Luca Andrei Glavan",
+      "Andrei Bordeianu",
+      "David-Ioan Dumitrascu",
+      "Alexandru Vlad Ciurea"
+    ],
+    "year": 2023,
+    "journal": "Brain Sciences",
+    "doi_or_url": "https://doi.org/10.3390/brainsci13101390",
+    "citation_count": 57,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2510804014",
+    "title": "From Sensory Perception to Lexical-Semantic Processing: An ERP Study in Non-Verbal Children with Autism",
+    "authors": [
+      "Chiara Cantiani",
+      "Naseem Choudhury",
+      "Yan H. Yu",
+      "Valerie L. Shafer",
+      "Richard G. Schwartz",
+      "April A. Benasich"
+    ],
+    "year": 2016,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0161637",
+    "citation_count": 57,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2139205831",
+    "title": "Endophenotypes for Alcohol Use Disorder: An Update on the Field",
+    "authors": [
+      "Jessica E. Salvatore",
+      "Irving I. Gottesman",
+      "Danielle M. Dick"
+    ],
+    "year": 2015,
+    "journal": "Current Addiction Reports",
+    "doi_or_url": "https://doi.org/10.1007/s40429-015-0046-y",
+    "citation_count": 57,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4286587365",
+    "title": "Recent Progress of Using Knowledge Graph for Cybersecurity",
+    "authors": [
+      "Kai Liu",
+      "Fei Wang",
+      "Zhaoyun Ding",
+      "Sheng Liang",
+      "Zhengfei Yu",
+      "Yun Zhou"
+    ],
+    "year": 2022,
+    "journal": "Electronics",
+    "doi_or_url": "https://doi.org/10.3390/electronics11152287",
+    "citation_count": 53,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2159095166",
+    "title": "Disruptions of preparatory attention contribute to failures of prospective memory",
+    "authors": [
+      "Robert West",
+      "Jason W. Krompinger",
+      "Ritvij Bowry"
+    ],
+    "year": 2005,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03193795",
+    "citation_count": 52,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4388940275",
+    "title": "Linguistic findings in persons with schizophrenia\u2014a review of the current literature",
+    "authors": [
+      "Felicitas Ehlen",
+      "Christiane Montag",
+      "Karolina Leopold",
+      "Andreas Heinz"
+    ],
+    "year": 2023,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2023.1287706",
+    "citation_count": 52,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  }
+]

@@ -1,0 +1,16 @@
+id: T000077
+slug: prospective-memory-task
+title: Prospective Memory Task
+acquisition: behavior
+variant: classic-event-based-focality
+cognitive_domain: [prospective-memory, attention, executive-control]
+maturity: draft
+version: {release_tag: v0.1.0}
+contracts: {taps: v0.2.0}
+runtime: {profile: psyflow}
+evidence:
+  - https://doi.org/10.3758/MC.38.3.304
+  - https://doi.org/10.3758/MC.36.4.716
+  - https://doi.org/10.3389/fnhum.2015.00392
+  - https://doi.org/10.1037/0096-3445.136.1.112
+maintainer: [TaskBeacon]
